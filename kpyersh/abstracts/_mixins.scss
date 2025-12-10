@@ -1,3 +1,0 @@
-@mixin flex-center{display:flex;justify-content:center;align-items:center;}
-@mixin transition($prop,$time:.3s){transition:$prop $time ease;}
-@mixin container($max:1200px){max-width:$max;margin:0 auto;padding:0 20px;}
