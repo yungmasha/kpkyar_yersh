@@ -13,7 +13,7 @@
 }
 .hero {
   position: relative;
-  background: url("/img/Background.webp") center/cover no-repeat;
+  background: url("img/Background.webp") center/cover no-repeat;
   color: #fff;
   width: 100%;
   padding: 0px 177px;
@@ -511,7 +511,7 @@ justify-content: center;
       rgba(255, 255, 255, 0.1),   /* цветной градиент */
       rgba(0,0,0, 1) /* плавный переход в прозрачность */
     ),
-    url("/img/side.webp") center/cover no-repeat;
+    url("img/side.webp") center/cover no-repeat;
   z-index: 0;
 }
 .trip__content {
@@ -820,7 +820,7 @@ Section .newsletter {
 
 .newsletter-content {
   background:  
-  url("/img1/7df2849ba4038a67844cc8e65c1ff6226725221e.webp");
+  url("img1/7df2849ba4038a67844cc8e65c1ff6226725221e.webp");
   position: relative;
   background-size: cover;
   background-position: center;
@@ -1219,33 +1219,33 @@ Section .newsletter {
 }
 
 .avatar-1 {
-  background-image: url(/img1/1q1.webp) ;
+  background-image: url(img1/1q1.webp) ;
   background-size: cover ;
 }
 
 .avatar-2 {
-   background-image: url(/img1/2q2.webp) ;
+   background-image: url(img1/2q2.webp) ;
    background-size: cover ;
 }
 
 .avatar-3 {
  background-size: cover ;
-  background-image: url(/img1/2q1.webp) ;
+  background-image: url(img1/2q1.webp) ;
 }
 .avatar-4 {
   background-size: cover ;
-   background-image: url(/img1/3q1.webp) ;
+   background-image: url(img1/3q1.webp) ;
 }
 .avatar-5 {
-   background-image: url(/img1/3q2.webp) ;
+   background-image: url(img1/3q2.webp) ;
    background-size: cover ;
 }
 .avatar-6 {
-   background-image: url(/img1/5q1.webp) ;
+   background-image: url(img1/5q1.webp) ;
    background-size: cover ;
 }
 .avatar-7 {
-   background-image: url(/img1/5q2.webp) ;
+   background-image: url(img1/5q2.webp) ;
    background-size: cover ;
 }
 @media (max-width: 768px) {
