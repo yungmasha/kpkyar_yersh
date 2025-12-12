@@ -13,7 +13,7 @@
 }
 .hero {
   position: relative;
-  background: url("img/Background.webp") center/cover no-repeat;
+  background: url("https://yungmasha.github.io/kpkyar_yersh/img/Background.webp") center/cover no-repeat;
   color: #fff;
   width: 100%;
   padding: 0px 177px;
@@ -47,23 +47,23 @@
   height: 20PX;
   justify-content: space-between;
 }
-.hero .header__social-link-one img {
+.hero .header__social-link-one https://yungmasha.github.io/kpkyar_yersh/img {
   width: 11px;
   height: px;
   opacity: 0.9;
   transition: opacity 0.3s ease;
 }
-.hero .header__social-link-one img:hover {
+.hero .header__social-link-one https://yungmasha.github.io/kpkyar_yersh/img:hover {
   opacity: 1;
 }
-.hero .header__social-link-two img {
+.hero .header__social-link-two https://yungmasha.github.io/kpkyar_yersh/img {
   width: 20px;
   height: 16px;
   opacity: 0.9;
   transition: opacity 0.3s ease;
   margin-top: 3px;
 }
-.hero .header__social-link-two img:hover {
+.hero .header__social-link-two https://yungmasha.github.io/kpkyar_yersh/img:hover {
   opacity: 1;
 }
 .hero .header__logo {
@@ -248,7 +248,7 @@ margin-bottom: 15px;
   padding: 51px 59px 51px 0px;
   width: auto;
 }
-.hero__search-btn img {
+.hero__search-btn https://yungmasha.github.io/kpkyar_yersh/img {
   width: 20px;
 }
 
@@ -325,7 +325,7 @@ margin-bottom: 15px;
     .hero__content.container {
     margin-top: 40px;
   }
-  .hero__caption img {
+  .hero__caption https://yungmasha.github.io/kpkyar_yersh/img {
     display: none;
   }
     .hero__caption {
@@ -367,7 +367,7 @@ justify-content: center;
 .hero__search-inner {
   display: none;
 }
-.hero__play img {
+.hero__play https://yungmasha.github.io/kpkyar_yersh/img {
   display: none;
 }
  }
@@ -511,7 +511,7 @@ justify-content: center;
       rgba(255, 255, 255, 0.1),   /* цветной градиент */
       rgba(0,0,0, 1) /* плавный переход в прозрачность */
     ),
-    url("img/side.webp") center/cover no-repeat;
+    url("https://yungmasha.github.io/kpkyar_yersh/img/side.webp") center/cover no-repeat;
   z-index: 0;
 }
 .trip__content {
@@ -618,9 +618,9 @@ justify-content: center;
   display: flex;
   gap: 15px;
   padding-bottom: 35px;
-  border-bottom: 1px solid dimgrey;
+  border-bottom: 1px solid dhttps://yungmasha.github.io/kpkyar_yersh/imgrey;
 }
-.trip__story-img {
+.trip__story-https://yungmasha.github.io/kpkyar_yersh/img {
   width: 48px;
   height: 48px;
   gap: 32px;
@@ -820,7 +820,7 @@ Section .newsletter {
 
 .newsletter-content {
   background:  
-  url("img1/7df2849ba4038a67844cc8e65c1ff6226725221e.webp");
+  url("https://yungmasha.github.io/kpkyar_yersh/img1/7df2849ba4038a67844cc8e65c1ff6226725221e.webp");
   position: relative;
   background-size: cover;
   background-position: center;
@@ -1219,33 +1219,33 @@ Section .newsletter {
 }
 
 .avatar-1 {
-  background-image: url(img1/1q1.webp) ;
+  background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/1q1.webp) ;
   background-size: cover ;
 }
 
 .avatar-2 {
-   background-image: url(img1/2q2.webp) ;
+   background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/2q2.webp) ;
    background-size: cover ;
 }
 
 .avatar-3 {
  background-size: cover ;
-  background-image: url(img1/2q1.webp) ;
+  background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/2q1.webp) ;
 }
 .avatar-4 {
   background-size: cover ;
-   background-image: url(img1/3q1.webp) ;
+   background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/3q1.webp) ;
 }
 .avatar-5 {
-   background-image: url(img1/3q2.webp) ;
+   background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/3q2.webp) ;
    background-size: cover ;
 }
 .avatar-6 {
-   background-image: url(img1/5q1.webp) ;
+   background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/5q1.webp) ;
    background-size: cover ;
 }
 .avatar-7 {
-   background-image: url(img1/5q2.webp) ;
+   background-image: url(https://yungmasha.github.io/kpkyar_yersh/img1/5q2.webp) ;
    background-size: cover ;
 }
 @media (max-width: 768px) {
