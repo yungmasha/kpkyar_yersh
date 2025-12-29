@@ -547,7 +547,7 @@ justify-content: center;
       rgba(255, 255, 255, 0.1),   /* цветной градиент */
       rgba(0,0,0, 1) /* плавный переход в прозрачность */
     ),
-    url("img/side.webp") center/cover no-repeat;
+    url("/img/side.webp") center/cover no-repeat;
   z-index: 0;
 }
 .trip__content {
