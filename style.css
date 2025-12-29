@@ -13,7 +13,7 @@
 }
 .hero {
   position: relative;
-  background: url("https://yungmasha.github.io/kpkyar_yersh/img/Background.webp") center/cover no-repeat;
+  background: url("img/Background.webp") center/cover no-repeat;
   color: #fff;
   width: 100%;
   padding: 0px 177px;
@@ -547,7 +547,7 @@ justify-content: center;
       rgba(255, 255, 255, 0.1),   /* цветной градиент */
       rgba(0,0,0, 1) /* плавный переход в прозрачность */
     ),
-    url("/https://yungmasha.github.io/kpkyar_yersh/img/side.webp") center/cover no-repeat;
+    url("/img/side.webp") center/cover no-repeat;
   z-index: 0;
 }
 .trip__content {
